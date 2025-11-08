@@ -1,0 +1,4 @@
+cd /c/Users/Rupesh/demo/abc
+touch lab1
+if [ $? -eq 0 ]
+then echo "file created"
