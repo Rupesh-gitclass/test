@@ -3,3 +3,5 @@ touch lab1
 if [ $? -eq 0 ]
 then echo "file created"
 else echo "file not created"
+Date - 13-Nov-2025
+echo "Hi"
